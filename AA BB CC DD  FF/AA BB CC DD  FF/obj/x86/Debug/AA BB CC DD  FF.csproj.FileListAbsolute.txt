@@ -1,0 +1,9 @@
+E:\PROJELERİM\AA BB CC DD  FF\AA BB CC DD  FF\bin\Debug\AA BB CC DD  FF.exe
+E:\PROJELERİM\AA BB CC DD  FF\AA BB CC DD  FF\bin\Debug\AA BB CC DD  FF.pdb
+E:\PROJELERİM\AA BB CC DD  FF\AA BB CC DD  FF\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\PROJELERİM\AA BB CC DD  FF\AA BB CC DD  FF\obj\x86\Debug\AA_BB_CC_DD__FF.Form1.resources
+E:\PROJELERİM\AA BB CC DD  FF\AA BB CC DD  FF\obj\x86\Debug\AA_BB_CC_DD__FF.Properties.Resources.resources
+E:\PROJELERİM\AA BB CC DD  FF\AA BB CC DD  FF\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\PROJELERİM\AA BB CC DD  FF\AA BB CC DD  FF\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\PROJELERİM\AA BB CC DD  FF\AA BB CC DD  FF\obj\x86\Debug\AA BB CC DD  FF.exe
+E:\PROJELERİM\AA BB CC DD  FF\AA BB CC DD  FF\obj\x86\Debug\AA BB CC DD  FF.pdb
